@@ -1,0 +1,7 @@
+[
+  { "name": "Home", "href": "/" },
+  { "name": "Chi Siamo", "href": "/about" },
+  { "name": "Procedure", "href": "#" },
+  { "name": "Testimonianze", "href": "#" },
+  { "name": "Contatti", "href": "#" }
+]
